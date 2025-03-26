@@ -1,0 +1,24 @@
+
+        # Student Performance Prediction Model
+        
+        ## Model Information
+        - Model Type: Linear Regression
+        - Created by: ShivamKashyap
+        - Creation Date: 2025-03-27 00:22:59
+        - Data Source: synthetic
+        
+        ## Performance Metrics
+        - R² Score: 0.4246
+        - Root Mean Squared Error: 7.18
+        - Mean Absolute Error: 5.53
+        
+        ## Features
+        Study Hours per Week, Attendance Rate, Previous Grades, Sleep Hours per Night, Extra Curricular Activities, Study_Efficiency, Study_Attendance, Sleep_Optimality
+        
+        ## Target
+        Performance Score
+        
+        ## Usage
+        This model predicts student performance scores based on study habits,
+        previous grades, attendance, sleep patterns, and extracurricular activities.
+        
